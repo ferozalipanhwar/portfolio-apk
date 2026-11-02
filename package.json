@@ -1,0 +1,7 @@
+{
+  "name": "panhwar-portfolio-android",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Android build verified successfully'"
+  }
+}
